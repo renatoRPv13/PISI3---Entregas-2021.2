@@ -1,0 +1,29 @@
+Event: modo de jogo.
+
+White: ID do branco.
+
+Black: ID do preto.
+
+Result: resultado do jogo (1-0 vitória do branco) (0-1 vitória do preto)
+
+UTCDate: Data.
+
+UTCTime: Hora.
+
+WhiteElo: ELO do branco.
+
+BlackElo: ELO do preto.
+
+WhiteRatingDiff: diferença de pontos do brando depois do jogo.
+
+BlackRatingDiff: diferença de pontos do preto depois do jogo.
+
+ECO: codigo da abertura no site  365chess.com
+
+Opening: nome da abertura.
+
+TimeControl: Tempo do jogo para cada jogador em segundos. O número após o sinal de incremento é o número de segundos antes que o relógio do jogador comece a contar em cada turno.
+
+Termination: motivo do final do jogo.
+
+AN: jogadas em forma de texto.
